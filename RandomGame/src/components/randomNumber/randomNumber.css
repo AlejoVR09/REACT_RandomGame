@@ -1,0 +1,45 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: gray;
+    text-align: center;
+  }
+
+  .buttons {
+    border-radius: 50px;
+    border-style: none;
+    padding: 0.7rem;
+  }
+
+  .inputs {
+    padding: 0.7rem;
+  }
+  
+  .generator {
+    margin: 10px;
+  }
+
+  .generator-input {
+    border-radius: 50px;
+    border-color: green;
+    border-width: .5rem;
+  }
+
+  .randombuttons-input {
+    border-style: none;
+    border-radius: 50px;
+  }
+
+  .randombuttons{
+    margin: 5px;
+  }
+
+  .resetbutton {
+    color: rgb(221, 27, 27);
+    background-color: black;
+  }
+
